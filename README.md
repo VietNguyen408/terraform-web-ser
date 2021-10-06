@@ -1,4 +1,4 @@
-# terraform-web-ser
+# terraform-web-server
 Set up a web server to handle web traffic using Terraform and AWS
 1. Create VPC
 2. Create internet gateway
